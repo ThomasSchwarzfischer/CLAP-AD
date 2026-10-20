@@ -1,6 +1,6 @@
 # CLAP-AD: Closed-Loop Aware Planning via Imitation-Free Speed Scoring for End-to-End Autonomous Driving
 
-CLAP-AD introduces a novel paradigm in which the driving path is learned via imitation, while the speed is conditioned on the predicted path and optimized through multi-criteria **imitation-free** scoring. This scoring-based planner realizes a synergistic optimization of path and speed for improved closed-loop performance.
+CLAP-AD introduces a novel paradigm in which the driving path is learned via imitation, while the speed is conditioned on the predicted path and optimized through multi-criteria **imitation-free scoring**. This scoring-based planner realizes a synergistic optimization of path and speed for improved closed-loop performance and allows **user-customizability** during rollout without retraining.
 
 ## Showcase
 
@@ -10,9 +10,9 @@ CLAP-AD introduces a novel paradigm in which the driving path is learned via imi
 
 ## Publication
 
-The work is in preparation for submission to **WACV 2027**.
+🎉🎉 CLAP-AD has been accepted to **WACV 2027** 🎉🎉
 
 
 ## Code
 
-The full code will be released upon acceptance.
+Code is being prepared for release.
